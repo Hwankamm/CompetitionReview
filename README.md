@@ -1,2 +1,3 @@
 # Competition Review
-Review of Competitions, my solutions, winner's code, or new trial with different algorithms
+
+### Review of Competitions. My solutions, winner's code, or trials with new algorithms are uploaded.
